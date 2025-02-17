@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-c
+module github.com/covolute/tree-sitter-c
 
 go 1.22
 
